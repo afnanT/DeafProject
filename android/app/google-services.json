@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731792766806",
+    "firebase_url": "https://nonspeaker-4e7af-default-rtdb.firebaseio.com",
+    "project_id": "nonspeaker-4e7af",
+    "storage_bucket": "nonspeaker-4e7af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731792766806:android:ab08c734630deb671608f7",
+        "android_client_info": {
+          "package_name": "com.example.tawasal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731792766806-imc389ob53orei031j72hmi8m6nkft99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpHImAXf-IANdCr5iyCCgiQlt0gQgwqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731792766806-imc389ob53orei031j72hmi8m6nkft99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
